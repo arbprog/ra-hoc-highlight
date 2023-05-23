@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dpn20p7ur10p2gxh?svg=true)](https://ci.appveyor.com/project/arbprog/ra-hoc-highlight)
